@@ -1,0 +1,1367 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Clown Monster
+# Property: HackerRankSolutions
+# ----------------------------------------
+#  
+# Start date: 20200523
+# End date: 20210523
+Country ID,Users
+(not set),77
+AE,19
+AF,1
+AL,2
+AM,6
+AR,4
+AT,1
+AU,11
+AZ,6
+BD,56
+BE,2
+BG,4
+BH,2
+BO,2
+BR,36
+BY,2
+CA,37
+CH,2
+CL,2
+CN,16
+CO,19
+CZ,1
+DE,26
+DK,2
+DO,1
+DZ,6
+EE,1
+EG,81
+ES,11
+ET,4
+FI,4
+FR,12
+GB,28
+GM,13
+GR,1
+HK,5
+HR,1
+HU,4
+ID,44
+IE,4
+IL,9
+IN,12599
+IT,3
+JO,3
+JP,7
+KE,5
+KG,2
+KH,1
+KR,18
+KW,1
+KZ,75
+LB,8
+LK,34
+LT,2
+LU,1
+LV,1
+MA,3
+MD,2
+MG,1
+MK,1
+MN,1
+MT,1
+MX,18
+MY,4
+NG,13
+NL,15
+NP,9
+NZ,2
+OM,7
+PA,1
+PE,4
+PH,10
+PK,76
+PL,7
+PR,1
+PS,6
+PT,2
+QA,4
+RO,13
+RU,60
+RW,1
+SA,8
+SD,1
+SE,5
+SG,21
+SN,1
+SY,1
+TH,8
+TM,1
+TN,6
+TR,45
+TW,19
+UA,14
+UG,2
+US,397
+UZ,7
+VE,1
+VN,60
+VU,1
+YE,1
+ZA,21
+ZM,2
+
+# Start date: 20200523
+# End date: 20210523
+Country,Users
+India,12599
+United States,397
+Egypt,81
+Pakistan,76
+Kazakhstan,75
+Russia,60
+Vietnam,60
+Bangladesh,56
+Turkey,45
+Indonesia,44
+Canada,37
+Brazil,36
+Sri Lanka,34
+United Kingdom,28
+Germany,26
+Singapore,21
+South Africa,21
+Colombia,19
+Taiwan,19
+United Arab Emirates,19
+Mexico,18
+South Korea,18
+China,16
+Netherlands,15
+Ukraine,14
+Gambia,13
+Nigeria,13
+Romania,13
+France,12
+Australia,11
+Spain,11
+Philippines,10
+Israel,9
+Nepal,9
+Lebanon,8
+Saudi Arabia,8
+Thailand,8
+Japan,7
+Oman,7
+Poland,7
+Uzbekistan,7
+Algeria,6
+Armenia,6
+Azerbaijan,6
+Palestine,6
+Tunisia,6
+Hong Kong,5
+Kenya,5
+Sweden,5
+Argentina,4
+Bulgaria,4
+Ethiopia,4
+Finland,4
+Hungary,4
+Ireland,4
+Malaysia,4
+Peru,4
+Qatar,4
+Italy,3
+Jordan,3
+Morocco,3
+Albania,2
+Bahrain,2
+Belarus,2
+Belgium,2
+Bolivia,2
+Chile,2
+Denmark,2
+Kyrgyzstan,2
+Lithuania,2
+Moldova,2
+New Zealand,2
+Portugal,2
+Switzerland,2
+Uganda,2
+Zambia,2
+Afghanistan,1
+Austria,1
+Cambodia,1
+Croatia,1
+Czechia,1
+Dominican Republic,1
+Estonia,1
+Greece,1
+Kuwait,1
+Latvia,1
+Luxembourg,1
+Madagascar,1
+Malta,1
+Mongolia,1
+North Macedonia,1
+Panama,1
+Puerto Rico,1
+Rwanda,1
+Senegal,1
+Sudan,1
+Syria,1
+Turkmenistan,1
+Vanuatu,1
+Venezuela,1
+Yemen,1
+
+#  
+
+
+#  
+# Start date: 20200523
+# End date: 20210523
+City,Users
+Hyderabad,1738
+Chennai,1061
+Bengaluru,885
+Pune,721
+Lucknow,497
+Delhi,463
+Patna,389
+Mumbai,370
+Kolkata,315
+Jaipur,269
+Coimbatore,263
+Indore,251
+Vijayawada,237
+Agra,175
+Bhubaneswar,149
+Ahmedabad,148
+New Delhi,131
+Guntur,124
+Noida,123
+Bhopal,122
+Gurgaon,122
+Chandigarh,117
+Visakhapatnam,116
+Nagpur,112
+Secunderabad,112
+Kochi,108
+Mysuru,99
+Ludhiana,98
+Atlanta,95
+Meerut,95
+Pimpri-Chinchwad,91
+Tirupati,76
+Dehradun,73
+Raipur,64
+Shimla,60
+Kanpur,55
+Ranchi,52
+Navi Mumbai,49
+Ghaziabad,45
+Surat,45
+Madurai,44
+Salem,43
+Sahibzada Ajit Singh Nagar,40
+Tiruchirappalli,39
+Dhaka,37
+Amritsar,36
+Guwahati,36
+Jammu,36
+Jodhpur,36
+Rajahmundry,36
+Varanasi,35
+Faridabad,34
+Panipat,34
+Aligarh,31
+Tirupathur,31
+Erode,30
+Aurangabad,29
+Ho Chi Minh City,29
+Karimnagar,29
+Karachi,28
+New York,28
+Thane,28
+Almaty,24
+Hubli,24
+Muzaffarpur,24
+Puducherry,24
+Rewari,23
+Colombo,22
+Kurnool,22
+Nanded,22
+Greater Noida,21
+Howrah,21
+Jamshedpur,21
+Nellore,21
+Tiruppur,21
+Vadodara,21
+Ambala Cantt,20
+Cairo,20
+Kozhikode,20
+Ongole,20
+Warangal,20
+Hosur,19
+Istanbul,19
+Udaipur,19
+Gaya,18
+Jalandhar,18
+Karnal,18
+Mangalore,18
+Nashik,17
+Kakinada,16
+Kota,16
+Lahore,16
+Nur-Sultan,16
+Singapore,16
+Srinagar,16
+Thiruvananthapuram,16
+Thrissur,16
+Alexandria,15
+Gwalior,15
+Hanamkonda,15
+Patiala,15
+Jabalpur,14
+Muzaffarnagar,14
+Prayagraj,14
+Rohtak,14
+Saharanpur,14
+Sonipat,14
+Durgapur,13
+Kalyan,13
+Lagos,13
+Mira Bhayandar,13
+Moradabad,13
+Rajkot,13
+Sao Paulo,13
+Serrekunda,13
+Tirunelveli,13
+Udupi,13
+Dombivli,12
+London,12
+Rawalpindi,12
+Bareilly,11
+Bhimavaram,11
+Gorakhpur,11
+Hisar,11
+Imphal,11
+Islamabad,11
+Nala Sopara,11
+Vasai-Virar,11
+Vellore,11
+Bokaro Steel City,10
+Columbus,10
+Jakarta,10
+Jalgaon,10
+Kurukshetra,10
+Sagar,10
+Siliguri,10
+Solapur,10
+Tenali,10
+Ankara,9
+Badlapur,9
+Bardhaman,9
+Belgaum,9
+Bhilwara,9
+Bucharest,9
+Chirala,9
+Davanagere,9
+Dharwad,9
+Dubai,9
+Hajipur,9
+Kharagpur,9
+New Cairo City,9
+Sacramento,9
+Shymkent,9
+Toronto,9
+Unnao,9
+Wardha,9
+Ahmednagar,8
+Alwar,8
+Anantapur,8
+Atyrau,8
+Beirut,8
+Beni Suef,8
+Bogota,8
+Chengalpattu,8
+Johannesburg,8
+Kathmandu,8
+Kolhapur,8
+Nizamabad,8
+Panchkula,8
+Ramagundam,8
+Vapi,8
+Asansol,7
+Brahmapur,7
+Da Nang,7
+Faizabad,7
+Hanoi,7
+Karur,7
+Kashipur,7
+Khammam,7
+Kottayam,7
+Los Angeles,7
+Mahbubnagar,7
+Midnapore,7
+Rudrapur,7
+Seoul,7
+Sirsa,7
+Surabaya,7
+Tadepalligudem,7
+Tashkent,7
+Ulhasnagar,7
+Washington,7
+Arlington,6
+Azamgarh,6
+Baku,6
+Bangkok,6
+Chittoor,6
+Cuttack,6
+Durg,6
+Eluru,6
+Kyiv,6
+Malda,6
+Maraimalai Nagar,6
+Melbourne,6
+Mountain View,6
+Novosibirsk,6
+Parsons,6
+Rishikesh,6
+Saint Petersburg,6
+San Jose,6
+Thalassery,6
+Ufa,6
+Ujjain,6
+Uttarpara,6
+Yerevan,6
+Zhengzhou,6
+Amravati,5
+Ankleshwar,5
+Bahadurgarh,5
+Bapatla,5
+Bathinda,5
+Berlin,5
+Bhilai,5
+Bhiwandi,5
+Chelyabinsk,5
+Dabra,5
+Darbhanga,5
+Dhanbad,5
+Dharamshala,5
+Digha,5
+Gandhinagar,5
+Kharar,5
+Kollam,5
+Moscow,5
+Naaldwijk,5
+Satara,5
+Shivamogga,5
+Srikakulam,5
+Tanuku,5
+Tiruvannamalai,5
+Tumakuru,5
+Tunis,5
+Vikarabad,5
+Virar,5
+Vizianagaram,5
+6th of October City,4
+Amroha,4
+Anand,4
+Arrah,4
+Baddi,4
+Bargarh,4
+Begambur,4
+Bhagalpur,4
+Campo Grande,4
+Chicago,4
+Darjeeling,4
+Depok,4
+Dharmapuri,4
+Dundigal,4
+Fatehpur,4
+Firozabad,4
+Fremont,4
+Gandhidham,4
+Gannavaram,4
+Giridih,4
+Giza,4
+Helsinki,4
+Houston,4
+Izhevsk,4
+Jaggaiahpet,4
+Jhansi,4
+Kannur,4
+Karaikudi,4
+Madanapalle,4
+Mathura,4
+Mehsana,4
+Nagercoil,4
+Nairobi,4
+Nalgonda,4
+Namburu,4
+Narnaul,4
+Navsari,4
+Pandharpur,4
+Pathankot,4
+Roorkee,4
+Sangli Miraj Kupwad,4
+Sangrur,4
+Sharjah,4
+Sri Jayawardenepura Kotte,4
+Tangerang,4
+Thoothukudi,4
+Una,4
+Virudhunagar,4
+Adoni,3
+Agartala,3
+Aktobe,3
+Ambernath,3
+Amsterdam,3
+Ashburn,3
+Barabanki,3
+Barcelona,3
+Barranquilla,3
+Bhandara,3
+Bhiwani,3
+Budapest,3
+Buenos Aires,3
+Dhule,3
+Diyarbakir,3
+Doha,3
+Dublin,3
+Farrukhabad,3
+Germiston,3
+Gonda,3
+Gudivada,3
+Habra,3
+Hamilton,3
+Hapur,3
+Haridwar,3
+Hosapete,3
+Huntsville,3
+Ichalkaranji,3
+Izmir,3
+Jersey City,3
+Jerusalem,3
+Kattankulathur,3
+Khed,3
+Kumbakonam,3
+Las Vegas,3
+Latur,3
+Lonavla,3
+Mainpuri,3
+Makati,3
+Margao,3
+Marwad,3
+Mexico City,3
+Milpitas,3
+Modinagar,3
+Montreal,3
+Morbi,3
+Nadikudi,3
+Neyveli T.S,3
+Nha Trang,3
+Oakville,3
+Paris,3
+Pretoria,3
+Purulia,3
+Riyadh,3
+Sandton,3
+Saratov,3
+Semey,3
+Sikar,3
+Sri Ganganagar,3
+Stuttgart,3
+Surrey,3
+Talkha,3
+Tanda Range,3
+Tel Aviv-Yafo,3
+Ust'-Kamenogorsk,3
+Varna,3
+Viluppuram,3
+Yamuna Nagar,3
+Yavatmal,3
+Abu Dhabi,2
+Ajman,2
+Albuquerque,2
+Antalya,2
+Apex,2
+Aradi Socorro,2
+Armur,2
+Austin,2
+Bagalkot,2
+Bandung,2
+Beaver Falls,2
+Beed,2
+Bekasi,2
+Belgorod,2
+Berhampore,2
+Bettiah,2
+Bhavnagar,2
+Bidar,2
+Bijnor,2
+Bilimora,2
+Bishkek,2
+Bolpur,2
+Boston,2
+Brampton,2
+Bursa,2
+Cambridge,2
+Centurion,2
+Chakdaha,2
+Channapatna,2
+Chapra,2
+Chattogram,2
+Chikmagalur,2
+Chisinau,2
+Curitiba,2
+Dallas,2
+Daltonganj,2
+Damanhour,2
+Damoh,2
+Di An,2
+Faridkot,2
+Farooqnagar,2
+Ghatkesar,2
+Godhra,2
+Gothenburg,2
+Gulbarga,2
+Gwangju,2
+Haiphong,2
+Hassan,2
+Incheon,2
+Jamnagar,2
+Kaithal,2
+Kampala,2
+Karagandy,2
+Kayamkulam,2
+Kazan,2
+Kharkiv,2
+Krakow,2
+Krimpen aan den IJssel,2
+Kushtia,2
+Luneburg,2
+Lusaka,2
+Manama,2
+Manaus,2
+Mancherial,2
+Mecca,2
+Medellin,2
+Memari,2
+Mevalurkuppam,2
+Minsk,2
+Motihari,2
+Munich,2
+Nandigama,2
+Neemuch,2
+Nilambur,2
+Niteroi,2
+North Bergen,2
+Odesa,2
+Ooty,2
+Orai,2
+Palanpur,2
+Palatine,2
+Palayanur,2
+Palembang,2
+Pandalam,2
+Pasadena,2
+Pavlodar,2
+Pekanbaru,2
+Perm,2
+Phuc Yen,2
+Pilani,2
+Raebareli,2
+Raghunathganj,2
+Ranaghat,2
+Ravulapalem,2
+Rayachoty,2
+Rourkela,2
+Samarlakota,2
+Sambalpur,2
+San Diego,2
+San Francisco,2
+San Marcos,2
+Santiago,2
+Seattle,2
+Shamli,2
+Shillong,2
+Siddipet,2
+Sioux Falls,2
+Sivakasi,2
+Slough,2
+Sohag,2
+South Tangerang,2
+Sri Muktsar Sahib,2
+Sriperumbudur,2
+Suryapet,2
+Taraz,2
+Tinsukia,2
+Tula,2
+Vista,2
+Wah,2
+Warsaw,2
+Windsor,2
+Yaroslavl,2
+Yongin-si,2
+Abu Road,1
+Addis Ababa,1
+Afragola,1
+Ajmer,1
+Alappuzha,1
+Albany,1
+Alcamo,1
+Amalapuram,1
+Amherst,1
+Ampang Jaya,1
+Anaparthi,1
+Angamaly,1
+Angers,1
+Anjuna,1
+Ann Arbor,1
+Antananarivo,1
+Antipolo,1
+Antwerp,1
+Aparecida de Goiania,1
+Aprelevka,1
+Arapoti,1
+Arjona,1
+Ashkelon,1
+Aswan,1
+Athens,1
+Athlone,1
+Auburn,1
+Auckland,1
+Aulnay-sous-Bois,1
+Avion,1
+Bagsvaerd,1
+Bahraich,1
+Baia Mare,1
+Balakovo,1
+Ballia,1
+Bang Kaeo,1
+Baramati,1
+Baraut,1
+Bartlett,1
+Basirhat,1
+Bawal,1
+Bellevue,1
+Benidorm,1
+Bharatpur,1
+Bhatapara,1
+Bhongir,1
+Bhusawal,1
+Bikaner,1
+Bilaspur,1
+Bina,1
+Biratnagar,1
+Birmingham,1
+Bithlo,1
+Bitola,1
+Blackburn,1
+Blacksburg,1
+Boiling Springs,1
+Boll,1
+Bornem,1
+Boulder,1
+Brambleton,1
+Brasov,1
+Buffalo,1
+Bulandshahr,1
+Buraydah,1
+Burbank,1
+Burhanpur,1
+Burnaby,1
+Busan,1
+Byasanagar,1
+Cagayan de Oro,1
+Calangute,1
+Calgary,1
+Cali,1
+Campbell,1
+Campbell River,1
+Canyon Lake,1
+Cape Town,1
+Cardiff,1
+Casablanca,1
+Cebu City,1
+Champaign,1
+Chandannagar,1
+Chandler,1
+Charoda,1
+Chavara,1
+Chekhov,1
+Chihuahua,1
+Chikhli,1
+Chilakaluripet,1
+Chiniot,1
+Chinsurah,1
+Chlef,1
+Christchurch,1
+Chuhuiv,1
+Clarksville,1
+Clayton,1
+Clifton,1
+Coffeyville,1
+College Station,1
+Collegeville,1
+Colonie,1
+Columbia,1
+Concord,1
+Contai,1
+Copenhagen,1
+Coquitlam,1
+Cornelius,1
+Courbevoie,1
+Coventry,1
+Cristalina,1
+Cuddalore,1
+Cumming,1
+Cupertino,1
+Dakar,1
+Damascus,1
+Dammam,1
+Dartford,1
+Daund,1
+Davao City,1
+Davie,1
+Debra,1
+Debrecen,1
+Denton,1
+Dewas,1
+Dhampur,1
+Dortmund,1
+Dounan Township,1
+Dumka,1
+Durban,1
+Ecatepec,1
+Edenvale,1
+Edinburgh,1
+El Centro,1
+Elazig,1
+Elk Grove Village,1
+Ernakulam,1
+Euless,1
+Everett,1
+Fairfield,1
+Faiyum,1
+Fargo,1
+Firozpur,1
+Fort Washington,1
+Fort Wayne,1
+Fort Worth,1
+Franklin Township,1
+Fresno,1
+Fullerton,1
+Gajraula,1
+Gangtok,1
+Garland,1
+Gateshead,1
+Geislingen,1
+Gia Nghia,1
+Godean,1
+Gondal,1
+Gondia,1
+Gopiganj,1
+Grand Forks,1
+Grandview,1
+Grapevine,1
+Greensboro,1
+Guadalajara,1
+Guaymas,1
+Gwacheon-si,1
+Haarlem,1
+Hai Phong,1
+Haldia,1
+Halifax,1
+Harrisburg,1
+Hayward,1
+Hazaribagh,1
+Hildesheim,1
+Himatnagar,1
+Hoboken,1
+Hoshangabad,1
+Hoshiarpur,1
+Hwaseong-si,1
+Hyattsville,1
+Indianapolis,1
+Irkutsk,1
+Irvine,1
+Iskenderun,1
+Ismailia,1
+Itabashi City,1
+Jaffna,1
+Jalpaiguri,1
+Jashore,1
+Jaunpur,1
+Jeddah,1
+Jhajjar,1
+Jigani,1
+Jilotepec de Molina Enriquez,1
+Joinville,1
+Jundiai,1
+Kadapa,1
+Kalamazoo,1
+Kallakkurichi,1
+Kampung Raja,1
+Kandy,1
+Kansas City,1
+Kapurthala,1
+Katihar,1
+Katni,1
+Kaunas,1
+Kavali,1
+Kayseri,1
+Kazipet,1
+Kemerovo,1
+Keraniganj,1
+Khagaria,1
+Khartoum,1
+Khulna,1
+Kichha,1
+Kigali,1
+Kinnelon,1
+Kirchheim bei Munchen,1
+Kirkwall,1
+Kitakyushu,1
+Knoxville,1
+Kohima,1
+Kolaghat,1
+Korolyov,1
+Kosi Kalan,1
+Kostanay,1
+Kuala Lumpur,1
+Kudus,1
+Kurkumbh,1
+Kursk,1
+Lacey Township,1
+Lakewood,1
+Larkana,1
+Larkspur,1
+Le Havre,1
+League City,1
+Leander,1
+Leon,1
+Lisbon,1
+Little Rock,1
+Londrina,1
+Long Xuyen,1
+Loni Kalbhor,1
+Loreto,1
+Los Mochis,1
+Lubuklinggau,1
+Lviv,1
+Machilipatnam,1
+Madera,1
+Madhubani,1
+Madison,1
+Madrid,1
+Magdeburg,1
+Mahabalipuram,1
+Mahabubabad,1
+Mahalunge,1
+Maidenhead,1
+Makassar,1
+Malabe,1
+Malegaon,1
+Malerkotla,1
+Mandya,1
+Mankweng,1
+Marlborough,1
+Marrakesh,1
+Marseille,1
+Matara,1
+Meiyur,1
+Meknes,1
+Melrose Park,1
+Mersin,1
+Milton,1
+Minya,1
+Mirzapur,1
+Mission Viejo,1
+Mississauga,1
+Missouri City,1
+Morena,1
+Mountain Park,1
+Mugla,1
+Mukerian,1
+Mussoorie,1
+Muvattupuzha,1
+Nadiad,1
+Naga,1
+Nagapattinam,1
+Nakuru,1
+Nalagarh,1
+Nanekarwadi,1
+Natal,1
+Nattapettai,1
+Neervalur,1
+Negombo,1
+Newark,1
+Nicholasville,1
+Nilje Gaon,1
+Nizhny Novgorod,1
+Norridge,1
+North Kuta,1
+Oakland,1
+Olavarria,1
+Omaha,1
+Omsk,1
+Orenburg,1
+Oruro,1
+Oshawa,1
+Ottawa,1
+Padang,1
+Palakkad,1
+Palani,1
+Palasa at Kasibugga,1
+Palo Alto,1
+Palvancha,1
+Panaji,1
+Panama City,1
+Parippally,1
+Parsippany-Troy Hills,1
+Pasto,1
+Patan,1
+Pathanamthitta,1
+Pattaya City,1
+Pen,1
+Penticton,1
+Perintalmanna,1
+Perumbavoor,1
+Petah Tikva,1
+Pflugerville,1
+Pforzheim,1
+Phan Thiet,1
+Phoenix,1
+Pilkhuwa,1
+Pinjore,1
+Pitesti,1
+Plano,1
+Ponda,1
+Porto Alegre,1
+Potchefstroom,1
+Prague,1
+Presidente Prudente,1
+Providence,1
+Provo,1
+Puebla,1
+Purnia,1
+Qena,1
+Quetta,1
+Quezon City,1
+Rahim Yar Khan,1
+Rajapalayam,1
+Rajgarh,1
+Rajpura,1
+Rajshahi,1
+Rancho Calaveras,1
+Rangpur,1
+Raniganj,1
+Ranipet,1
+Ranjangaon,1
+Ras Al-Khaimah,1
+Ratlam,1
+Ratnagiri,1
+Redondo Beach,1
+Redruth,1
+Richmond,1
+Richmond Hill,1
+Riga,1
+Rio Rancho,1
+Rio de Janeiro,1
+Rishon LeTsiyon,1
+Rize,1
+Roosevelt,1
+Roseville,1
+Rostov-on-Don,1
+Rzeszow,1
+Sahiwal,1
+Saint-Denis,1
+Saitama,1
+Sala,1
+Saligao,1
+Samet,1
+San Antonio,1
+San Francisco del Rincon,1
+Sana'a,1
+Sangolda,1
+Santa Clara,1
+Santiago de Queretaro,1
+Santo Andre,1
+Santo Domingo,1
+Sao Lourenco do Oeste,1
+Sasaram,1
+Sasunavghar,1
+Sawai Madhopur,1
+Secaucus,1
+Seongnam-si,1
+Sevastopol,1
+Sevenoaks,1
+Seville,1
+Sfax,1
+Shah Alam,1
+Shahapur,1
+Shahjahanpur,1
+Shenzhen,1
+Sherwood,1
+Shibuya City,1
+Shirur,1
+Shoreview,1
+Sialkot,1
+Siddhpur,1
+Silchar,1
+Silvassa,1
+Simoes Filho,1
+Sircaim,1
+Sirsala,1
+Sitapur,1
+Siwan,1
+Solan,1
+Solon,1
+Son Tay,1
+South Brunswick Township,1
+Southampton Township,1
+Spartanburg,1
+Stamford,1
+Strzegom,1
+Suceava,1
+Sulur,1
+Sumter,1
+Sunnyvale,1
+Surendranagar,1
+Suwanee,1
+Sydney,1
+Sylacauga,1
+Taby,1
+Taldykorgan,1
+Talegaon Dabhade,1
+Tallinn,1
+Tamluk,1
+Tangail,1
+Tanta,1
+Tasikmalaya,1
+Tecamac de Felipe Villanueva,1
+Thanh Hoa,1
+Thanjavur,1
+The Woodlands,1
+Thenhipalam,1
+Thiruvalla,1
+Tirana,1
+Titwala,1
+Tlaquepaque,1
+Tolleson,1
+Tongi,1
+Toshima City,1
+Trabzon,1
+Troy,1
+Tu Son,1
+Tuckahoe,1
+Tulua,1
+Turbaco,1
+Tysons,1
+Uijeongbu-si,1
+Ulaanbaatar,1
+Ullal,1
+Ulyanovsk,1
+Union City,1
+Union Park,1
+University Park,1
+Uralsk,1
+Uran Islampur,1
+Uzhhorod,1
+Vagator,1
+Valencia,1
+Valladolid,1
+Vancouver,1
+Vasco da Gama,1
+Vaughan,1
+Vienna,1
+Villavicencio,1
+Vilnius,1
+Vinh,1
+Vinh Long,1
+Vinh Yen,1
+Vladikavkaz,1
+Voorhees Township,1
+Vyara,1
+Wabasha,1
+Walajapet,1
+Waltham,1
+Waterloo,1
+Weimar,1
+Welland,1
+Wentzville,1
+Wheaton,1
+Willisau,1
+Willow Grove,1
+Winterthur,1
+Woburn,1
+Wroclaw,1
+Xiamen,1
+Yangpyeong-gun,1
+Yekaterinburg,1
+Yokohama,1
+Zagazig,1
+Zagreb,1
+Zhongli District,1
+
+#  
+# Start date: 20200523
+# End date: 20210523
+Gender,Users
+male,4088
+female,3525
+
+#  
+# Start date: 20200523
+# End date: 20210523
+Interests,Users
+Technology/Technophiles,5196
+Shoppers/Value Shoppers,4676
+Media & Entertainment/Music Lovers,4317
+Media & Entertainment/Movie Lovers,4048
+Media & Entertainment/Gamers,3071
+Lifestyles & Hobbies/Green Living Enthusiasts,3006
+Food & Dining/Fast Food Cravers,2975
+Media & Entertainment/Light TV Viewers,2788
+Lifestyles & Hobbies/Outdoor Enthusiasts,2759
+Home & Garden/Do-It-Yourselfers,2754
+Lifestyles & Hobbies/Art & Theater Aficionados,2674
+Food & Dining/Frequently Dines Out/Diners by Meal/Frequently Eats Lunch Out,2387
+Beauty & Wellness/Frequently Visits Salons,2362
+Lifestyles & Hobbies/Nightlife Enthusiasts,2291
+Travel/Business Travelers,2249
+Travel/Travel Buffs,2043
+Lifestyles & Hobbies/Frequently Attends Live Events,1807
+Shoppers/Shoppers by Store Type/Department Store Shoppers,1803
+Vehicles & Transportation/Auto Enthusiasts,1802
+Shoppers/Shopaholics,1765
+Lifestyles & Hobbies/Shutterbugs,1698
+Sports & Fitness/Sports Fans,1684
+Lifestyles & Hobbies/Fashionistas,1676
+Food & Dining/Frequently Dines Out/Diners by Meal/Frequently Eats Dinner Out,1621
+Media & Entertainment/Book Lovers,1595
+Shoppers/Luxury Shoppers,1514
+Technology/Mobile Enthusiasts,1500
+Shoppers/Bargain Hunters,1445
+Sports & Fitness/Health & Fitness Buffs,1313
+Beauty & Wellness/Beauty Mavens,1290
+Media & Entertainment/Movie Lovers/South Asian Film Fans,1288
+Lifestyles & Hobbies/Thrill Seekers,1255
+Food & Dining/Cooking Enthusiasts/30 Minute Chefs,1239
+Lifestyles & Hobbies/Family-Focused,1207
+Food & Dining/Foodies,1038
+Media & Entertainment/Music Lovers/World Music Fans,1021
+Technology/Social Media Enthusiasts,1018
+Lifestyles & Hobbies/Business Professionals,1004
+Lifestyles & Hobbies/Pet Lovers,921
+Food & Dining/Coffee Shop Regulars,904
+Media & Entertainment/TV Lovers,851
+Banking & Finance/Avid Investors,844
+Food & Dining/Cooking Enthusiasts/Aspiring Chefs,781
+Media & Entertainment/Comics & Animation Fans,754
+Shoppers/Shoppers by Store Type/Convenience Store Shoppers,708
+Home & Garden/Home Decor Enthusiasts,695
+News & Politics/Avid News Readers,694
+Media & Entertainment/Gamers/Hardcore Gamers,608
+Media & Entertainment/Music Lovers/Rap & Hip Hop Fans,512
+Media & Entertainment/Music Lovers/Pop Music Fans,504
+Sports & Fitness/Sports Fans/Cricket Enthusiasts,481
+Food & Dining/Frequently Dines Out/Diners by Meal/Frequently Eats Breakfast Out,454
+Media & Entertainment/Gamers/Casual & Social Gamers,410
+Media & Entertainment/Gamers/Shooter Game Fans,362
+Media & Entertainment/Movie Lovers/Action & Adventure Movie Fans,342
+Food & Dining/Cooking Enthusiasts,322
+Media & Entertainment/Music Lovers/Electronic Dance Music Fans,290
+News & Politics/Avid News Readers/Avid Political News Readers,266
+Media & Entertainment/Gamers/Action Game Fans,225
+Media & Entertainment/Gamers/Adventure & Strategy Game Fans,219
+News & Politics/Avid News Readers/Entertainment News Enthusiasts,169
+Sports & Fitness/Sports Fans/Soccer Fans,162
+News & Politics/Avid News Readers/Avid Business News Readers,157
+Media & Entertainment/Movie Lovers/Sci-Fi & Fantasy Movie Fans,129
+Media & Entertainment/Movie Lovers/Comedy Movie Fans,124
+Media & Entertainment/Gamers/Roleplaying Game Fans,122
+Media & Entertainment/Gamers/Driving & Racing Game Fans,117
+Media & Entertainment/Music Lovers/Rock Music Fans,116
+Vehicles & Transportation/Auto Enthusiasts/Motorcycle Enthusiasts,114
+Media & Entertainment/TV Lovers/TV Drama Fans,97
+"Media & Entertainment/TV Lovers/Game, Reality & Talk Show Fans",90
+Media & Entertainment/Music Lovers/Indie & Alternative Rock Fans,89
+Media & Entertainment/Movie Lovers/Romance & Drama Movie Fans,87
+Media & Entertainment/Movie Lovers/Family Movie Fans,86
+Vehicles & Transportation/Auto Enthusiasts/Performance & Luxury Vehicle Enthusiasts,75
+Media & Entertainment/Movie Lovers/Horror Movie Fans,65
+Vehicles & Transportation/Auto Enthusiasts/Truck & SUV Enthusiasts,60
+Media & Entertainment/TV Lovers/TV Comedy Fans,57
+Media & Entertainment/Music Lovers/Country Music Fans,50
+Travel/Travel Buffs/Beachbound Travelers,44
+Sports & Fitness/Sports Fans/Basketball Fans,37
+Sports & Fitness/Sports Fans/Fight & Wrestling Fans,35
+Media & Entertainment/Music Lovers/Spanish-Language Music Fans,31
+Media & Entertainment/Gamers/Sports Game Fans,28
+News & Politics/Avid News Readers/Avid Local News Readers,27
+Travel/Travel Buffs/Luxury Travelers,27
+Sports & Fitness/Sports Fans/American Football Fans,26
+Media & Entertainment/Music Lovers/Classical Music Enthusiasts,25
+Sports & Fitness/Sports Fans/Running Enthusiasts,18
+Media & Entertainment/Music Lovers/Metalheads,17
+Sports & Fitness/Sports Fans/Racquetball Enthusiasts,16
+Travel/Travel Buffs/Family Vacationers,15
+Media & Entertainment/TV Lovers/Sci-Fi & Fantasy TV Fans,14
+Sports & Fitness/Sports Fans/Motor Sports Enthusiasts,14
+Media & Entertainment/TV Lovers/Family Television Fans,13
+Sports & Fitness/Sports Fans/Cycling Enthusiasts,12
+Travel/Travel Buffs/Snowbound Travelers,11
+
+#  
+# Start date: 20200523
+# End date: 20210523
+Age,Users
+18-24,4839
+25-34,1172
+35-44,304
+45-54,227
+55-64,60
+65+,49
+
+#  
+# Start date: 20200523
+# End date: 20210523
+Language,Users
+English,13702
+Russian,123
+Spanish,44
+Vietnamese,33
+Turkish,30
+Portuguese,29
+Chinese,23
+Arabic,18
+Korean,16
+French,15
+Indonesian,13
+German,6
+Hindi,6
+Dutch,5
+Romanian,5
+Japanese,4
+Hebrew,3
+Italian,2
+Kazakh,2
+Marathi,2
+Polish,2
+Swedish,2
+Telugu,2
+Croatian,1
+Galician,1
+Greek,1
+Hungarian,1
+Lithuanian,1
+Sinhala,1
+Tamil,1
+Ukrainian,1
+Urdu,1
+Uzbek,1

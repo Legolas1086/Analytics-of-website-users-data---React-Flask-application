@@ -1,0 +1,868 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Clown Monster
+# Property: HackerRankSolutions
+# ----------------------------------------
+#  
+# Start date: 20210517
+# End date: 20210523
+Day,Users
+0000,467
+0001,383
+0002,356
+0003,370
+0004,334
+0005,340
+0006,343
+
+# Start date: 20210517
+# End date: 20210523
+Day,New users
+0000,380
+0001,300
+0002,278
+0003,288
+0004,254
+0005,252
+0006,271
+
+# Start date: 20210517
+# End date: 20210523
+Day,Average engagement time
+0000,56.44967880085653
+0001,81.97650130548303
+0002,73.62359550561797
+0003,100.91081081081082
+0004,105.0059880239521
+0005,84.29705882352941
+0006,77.25072886297376
+
+# Start date: 20210517
+# End date: 20210523
+Day,Total revenue
+
+
+#  
+
+
+#  
+
+
+# Where do your new users come from?
+# Start date: 20210517
+# End date: 20210523
+User medium,New users
+organic,1772
+(none),199
+referral,52
+
+#  
+# Start date: 20210517
+# End date: 20210523
+Session medium,Sessions
+organic,2713
+(none),302
+referral,52
+
+# Where are your users visiting from?
+# Start date: 20210325
+# End date: 20210523
+Country ID,Users,Users (Previous)
+(not set),23,54
+AE,16,2
+AF,1,0
+AL,0,2
+AM,6,0
+AR,3,0
+AT,1,0
+AU,9,2
+AZ,5,2
+BD,41,14
+BE,1,1
+BG,3,1
+BH,1,1
+BO,1,1
+BR,26,9
+BY,2,0
+CA,30,7
+CH,0,2
+CL,2,0
+CN,2,14
+CO,18,1
+DE,18,6
+DK,1,1
+DO,1,0
+DZ,3,2
+EE,1,0
+EG,71,6
+ES,8,3
+ET,4,0
+FI,1,0
+FR,12,0
+GB,11,14
+GM,13,0
+GR,1,0
+HK,3,1
+HR,1,0
+HU,1,2
+ID,34,7
+IE,4,0
+IL,7,2
+IN,9973,1927
+IT,2,1
+JO,3,0
+JP,6,1
+KE,4,1
+KG,2,0
+KH,1,0
+KR,16,1
+KW,0,1
+KZ,67,7
+LB,4,4
+LK,22,9
+LT,1,1
+LV,0,1
+MA,2,1
+MD,2,0
+MG,1,0
+MK,1,0
+MN,1,0
+MT,1,0
+MX,15,2
+MY,3,1
+NG,11,2
+NL,14,0
+NP,9,0
+NZ,2,0
+OM,6,1
+PA,1,0
+PE,3,1
+PH,7,2
+PK,61,12
+PL,6,1
+PR,1,0
+PS,5,1
+PT,2,0
+QA,4,0
+RO,10,3
+RU,52,4
+RW,1,0
+SA,6,1
+SD,1,0
+SE,4,0
+SG,20,2
+SN,0,1
+SY,0,1
+TH,8,0
+TM,1,0
+TN,6,0
+TR,39,4
+TW,18,1
+UA,6,3
+UG,2,0
+US,306,66
+UZ,4,3
+VE,1,0
+VN,46,9
+VU,1,0
+YE,1,0
+ZA,20,1
+ZM,1,1
+
+# Start date: 20210325
+# End date: 20210523
+Country,Users
+India,9973
+United States,306
+Egypt,71
+Kazakhstan,67
+Pakistan,61
+Russia,52
+Bangladesh,41
+Vietnam,46
+Turkey,39
+Indonesia,34
+Canada,30
+Brazil,26
+Sri Lanka,22
+United Kingdom,11
+Germany,18
+Singapore,20
+South Africa,20
+Colombia,18
+Taiwan,18
+United Arab Emirates,16
+Mexico,15
+South Korea,16
+China,2
+Netherlands,14
+Gambia,13
+Nigeria,11
+Romania,10
+France,12
+Australia,9
+Spain,8
+Israel,7
+Nepal,9
+Philippines,7
+Ukraine,6
+Lebanon,4
+Thailand,8
+Azerbaijan,5
+Japan,6
+Oman,6
+Poland,6
+Saudi Arabia,6
+Uzbekistan,4
+Armenia,6
+Palestine,5
+Tunisia,6
+Algeria,3
+Kenya,4
+Bulgaria,3
+Ethiopia,4
+Hong Kong,3
+Ireland,4
+Malaysia,3
+Peru,3
+Qatar,4
+Sweden,4
+Argentina,3
+Hungary,1
+Italy,2
+Jordan,3
+Morocco,2
+Albania,0
+Bahrain,1
+Belarus,2
+Belgium,1
+Bolivia,1
+Chile,2
+Denmark,1
+Kyrgyzstan,2
+Lithuania,1
+Moldova,2
+New Zealand,2
+Portugal,2
+Switzerland,0
+Uganda,2
+Zambia,1
+Afghanistan,1
+Austria,1
+Cambodia,1
+Croatia,1
+Dominican Republic,1
+Estonia,1
+Finland,1
+Greece,1
+Kuwait,0
+Latvia,0
+Madagascar,1
+Malta,1
+Mongolia,1
+North Macedonia,1
+Panama,1
+Puerto Rico,1
+Rwanda,1
+Senegal,0
+Sudan,1
+Syria,0
+Turkmenistan,1
+Vanuatu,1
+Venezuela,1
+Yemen,1
+
+# How are active users trending?
+# Start date: 20210517
+# End date: 20210523
+Day,30 days,7 days,1 day
+0000,7139,2458,467
+0001,7312,2498,383
+0002,7453,2451,356
+0003,7586,2365,370
+0004,7632,2345,334
+0005,7587,2265,340
+0006,7584,2277,343
+
+# How well do you retain your users?
+# Start date: 20210411
+# End date: 20210522
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+Apr 11 - Apr 17,929,55,25,21,16,15
+Apr 18 - Apr 24,1429,47,25,24,21,-1
+Apr 25 - May 1,1211,71,43,29,-1,-1
+May 2 - May 8,1447,110,33,-1,-1,-1
+May 9 - May 15,2115,123,-1,-1,-1,-1
+May 16 - May 22,2011,-1,-1,-1,-1,-1
+
+#  
+# Start date: 20210517
+# End date: 20210523
+Page title and screen class,Views
+HackerRank Solutions,2348
+Print Function - HackerRank Solutions,380
+"""Hello World!"" in C - HackerRank Solutions",212
+Array-DS - HackerRank Solutions,100
+Write a function - HackerRank Solutions,123
+Sum of Digits of a Five Digit Number - HackerRank Solutions,41
+HackerRank Solutions - Online Code Compiler,34
+Finding the Percentage - HackerRank Solutions,64
+Solve Me First - HackerRank Solutions,122
+Bitwise Operators - HackerRank Solutions,75
+Compare the Triplets - HackerRank Solutions,65
+Left Rotation - HackerRank Solutions,58
+Loops - HackerRank Solutions,57
+Print the Elements of a Linked List - HackerRank Solutions,48
+Minimum Average Waiting Time - HackerRank Solutions,10
+Printing Pattern Using Loops - HackerRank Solutions,31
+Simple Array Sum - HackerRank Solutions,54
+Balanced Brackets - HackerRank Solutions,49
+Sparse Arrays - HackerRank Solutions,37
+String Reduction - HackerRank Solutions,42
+Greedy Florist - HackerRank Solutions,29
+Java Datatypes - HackerRank Solutions,27
+Dynamic Array in C - HackerRank Solutions,24
+Java Strings Introduction - HackerRank Solutions,29
+Permutations of Strings C - HackerRank Solutions,36
+1D array in c - HackerRank Solutions,19
+Reverse a linked list - HackerRank Solutions,9
+Attribute Parser C++ - HackerRank Solutions,24
+Diagonal Difference - HackerRank Solutions,36
+Java Static Initializer Block - HackerRank Solutions,27
+Java Substring - HackerRank Solutions,22
+Short Palindrome - HackerRank Solutions,47
+Waiter - HackerRank Solutions,42
+Insert a node at a specific position in a linked list - HackerRank Solutions,21
+Birthday Cake Candles - HackerRank Solutions,10
+Java Int to String - HackerRank Solutions,26
+Day of the Programmer - HackerRank Solutions,10
+Java BigDecimal - HackerRank Solutions,1
+Queue using Two Stacks - HackerRank Solutions,30
+Picking Numbers - HackerRank Solutions,19
+Tree: Postorder Traversal - HackerRank Solutions,24
+Box Operations - HackerRank Solutions,37
+Print in Reverse - HackerRank Solutions,14
+Compare two linked lists - HackerRank Solutions,14
+Inserting a Node Into a Sorted Doubly Linked List - HackerRank Solutions,14
+Jenny's Subtrees - HackerRank Solutions,10
+Truck Tour - HackerRank Solutions,19
+Cats and a Mouse - HackerRank Solutions,12
+Delete duplicate-value nodes from a sorted linked list - HackerRank Solutions,23
+Migratory Birds - HackerRank Solutions,14
+Kitty's Calculations on a Tree - HackerRank Solutions,19
+Reverse a doubly linked list - HackerRank Solutions,14
+Tree: Preorder Traversal - HackerRank Solutions,17
+2D Array-DS - HackerRank Solutions,13
+Java Interface - HackerRank Solutions,8
+Arrays Introduction C++ - HackerRank Solutions,13
+Collections.namedtuple() python - HackerRank Solutions,19
+Merge two sorted linked lists - HackerRank Solutions,11
+Delete a Node - HackerRank Solutions,21
+Arithmetic Operators - HackerRank Solutions,17
+Circular Array Rotation - HackerRank Solutions,16
+For Loops in c - HackerRank Solutions,11
+Iterables and Iterators python - HackerRank Solutions,17
+Max Transform - HackerRank Solutions,28
+"Mean, Var, and Std python - HackerRank Solutions",15
+Set.difference() Operation - HackerRank Solutions,11
+Input() python - HackerRank Solutions,18
+Insert a Node at the head of a Linked List - HackerRank Solutions,13
+Pointers in c - HackerRank Solutions,16
+Subarray Division - HackerRank Solutions,17
+Sum and Difference of Two Numbers - HackerRank Solutions,18
+Playing with Characters - HackerRank Solutions,16
+Plus Minus - HackerRank Solutions,12
+A Very Big Sum - HackerRank Solutions,13
+Collections.deque() python - HackerRank Solutions,12
+Insert a Node at the Tail of a Linked List - HackerRank Solutions,11
+The Hurdle Race - HackerRank Solutions,8
+Valid Username Regular Expression Java - HackerRank Solutions,12
+Zeros and Ones python - HackerRank Solutions,9
+Concatenate python - HackerRank Solutions,11
+Java Stdin and Stdout II - HackerRank Solutions,10
+Tree Coordinates - HackerRank Solutions,12
+Variable Sized Arrays - HackerRank Solutions,14
+Word Order Python - HackerRank Solutions,14
+CamelCase - HackerRank Solutions,15
+Input and Output C++ - HackerRank Solutions,6
+Python: Division - HackerRank Solutions,7
+"Say ""Hello, World!"" With Python - HackerRank Solutions",16
+Sequence Equation - HackerRank Solutions,15
+Strings: Making Anagrams - HackerRank Solutions,11
+Tree: Huffman Decoding - HackerRank Solutions,6
+Bill Division - HackerRank Solutions,11
+Java Stack - HackerRank Solutions,8
+Largest Rectangle - HackerRank Solutions,11
+itertools.permutations() python - HackerRank Solutions,11
+Square-Ten Tree - HackerRank Solutions,9
+The Coin Change Problem - HackerRank Solutions,14
+Apple and Orange - HackerRank Solutions,8
+Array Manipulation - HackerRank Solutions,4
+Candies - HackerRank Solutions,3
+Functions C++ - HackerRank Solutions,12
+Mutations Python - HackerRank Solutions,11
+Self Balancing Tree - HackerRank Solutions,9
+Classes: Dealing with Complex Numbers python - HackerRank Solutions,10
+Components in a graph - HackerRank Solutions,9
+Crossword Puzzle - HackerRank Solutions,10
+Equal Stacks - HackerRank Solutions,7
+Java Abstract Class - HackerRank Solutions,7
+Map and Lambda Function python - HackerRank Solutions,17
+Set .intersection() Operation - HackerRank Solutions,13
+Sorting Array of Strings C - HackerRank Solutions,8
+"Set.discard(), remove() & pop() Python - HackerRank Solutions",6
+StringStream C++ - HackerRank Solutions,7
+Swap Nodes [Algo] - HackerRank Solutions,12
+Ashton and String - HackerRank Solutions,7
+Counting Valleys - HackerRank Solutions,9
+Forming a Magic Square - HackerRank Solutions,8
+Get Node Value - HackerRank Solutions,9
+Java End-of-file - HackerRank Solutions,11
+Polynomials python - HackerRank Solutions,4
+Tree: Height of a Binary Tree - HackerRank Solutions,7
+Abstract Classes - Polymorphism C++ - HackerRank Solutions,12
+Arrays python - HackerRank Solutions,8
+Calendar Module python - HackerRank Solutions,7
+DefaultDict Tutorial python - HackerRank Solutions,8
+Java 1D Array - HackerRank Solutions,6
+Java Regex - HackerRank Solutions,7
+Querying the Document C - HackerRank Solutions,3
+The Longest Increasing Subsequence - HackerRank Solutions,7
+Beautiful Days at the Movies - HackerRank Solutions,10
+Capitalize! Python - HackerRank Solutions,6
+Company Logo Python - HackerRank Solutions,8
+Contacts - HackerRank Solutions,9
+No Prefix Set - HackerRank Solutions,7
+Sales by Match - HackerRank Solutions,6
+The Maximum Subarray - HackerRank Solutions,12
+Any or All python - HackerRank Solutions,3
+Basic Data Types C++ - HackerRank Solutions,7
+Boxes through a Tunnel C - HackerRank Solutions,3
+C++ Class Templates - HackerRank Solutions,6
+Collections.OrderedDict() python - HackerRank Solutions,3
+Java Substring Comparisons - HackerRank Solutions,7
+Jumping on the Clouds - HackerRank Solutions,5
+Knapsack - HackerRank Solutions,2
+Linear Algebra python - HackerRank Solutions,8
+Maximum Subarray Sum - HackerRank Solutions,2
+Nikita and the Game - HackerRank Solutions,4
+String Similarity - HackerRank Solutions,8
+String Validators Python - HackerRank Solutions,10
+Tag Content Extractor Java - HackerRank Solutions,9
+Alphabet Rangoli Python - HackerRank Solutions,5
+Angry Professor - HackerRank Solutions,5
+Balanced Forest - HackerRank Solutions,7
+Digit Frequency - HackerRank Solutions,4
+Dynamic Array - HackerRank Solutions,5
+Grading Students - HackerRank Solutions,6
+Messages Order C++ - HackerRank Solutions,9
+Mr. X and His Shots - HackerRank Solutions,9
+Pointer C++ - HackerRank Solutions,8
+Time Conversion - HackerRank Solutions,2
+Utopian Tree - HackerRank Solutions,2
+Variadic functions in C - HackerRank Solutions,2
+What's Your Name? Python - HackerRank Solutions,11
+collections.Counter() python - HackerRank Solutions,6
+itertools.combinations_with_replacement() python - HackerRank Solutions,7
+Build a String - HackerRank Solutions,9
+Find Digits - HackerRank Solutions,4
+Find a string Python - HackerRank Solutions,8
+Java Inheritance II - HackerRank Solutions,0
+Python If-Else - HackerRank Solutions,10
+Sherlock and Squares - HackerRank Solutions,2
+Array Pairs - HackerRank Solutions,7
+Divisible Sum Pairs - HackerRank Solutions,3
+Java Dequeue - HackerRank Solutions,5
+Java Stdin and Stdout I - HackerRank Solutions,8
+Jumping on the Clouds: Revisited - HackerRank Solutions,2
+Lego Blocks - HackerRank Solutions,3
+Max Min - HackerRank Solutions,3
+Mod Divmod Python - HackerRank Solutions,5
+Nested Lists - HackerRank Solutions,7
+Recursive Digit Sum - HackerRank Solutions,3
+Self-Driving Bus - HackerRank Solutions,7
+Staircase - HackerRank Solutions,2
+Structuring the Document C - HackerRank Solutions,1
+The Love-Letter Mystery - HackerRank Solutions,8
+Beautiful Binary String - HackerRank Solutions,7
+Between Two Sets - HackerRank Solutions,2
+Breaking the Records - HackerRank Solutions,2
+Castle on the Grid - HackerRank Solutions,7
+Classes and Objects C++ - HackerRank Solutions,3
+Counting On a Tree - HackerRank Solutions,6
+Designer PDF Viewer - HackerRank Solutions,4
+Functions in C - HackerRank Solutions,7
+Game of Two Stacks - HackerRank Solutions,5
+Introduction to Sets Python - HackerRank Solutions,7
+Kundu and Tree - HackerRank Solutions,4
+Lazy White Falcon - HackerRank Solutions,7
+Matrix - HackerRank Solutions,7
+Pangrams - HackerRank Solutions,3
+Piling Up! python - HackerRank Solutions,4
+Poisonous Plants - HackerRank Solutions,5
+Python Evaluation - HackerRank Solutions,5
+Sherlock and Anagrams - HackerRank Solutions,3
+Ticket to Ride - HackerRank Solutions,7
+Tuples - HackerRank Solutions,3
+Vector-Erase C++ - HackerRank Solutions,2
+XOR Strings - HackerRank Solutions,0
+itertools.product() python - HackerRank Solutions,5
+Anagram - HackerRank Solutions,6
+Build a Palindrome - HackerRank Solutions,8
+Check Strict Superset Python - HackerRank Solutions,4
+Climbing the Leaderboard - HackerRank Solutions,3
+Drawing Book - HackerRank Solutions,1
+Find Merge Point of Two Lists - HackerRank Solutions,2
+Flipping the Matrix - HackerRank Solutions,6
+Heavy Light 2 White Falcon - HackerRank Solutions,7
+Heavy Light White Falcon - HackerRank Solutions,4
+Hotel Prices C++ - HackerRank Solutions,8
+Java BitSet - HackerRank Solutions,2
+Matrix Land - HackerRank Solutions,2
+Maximize It! python - HackerRank Solutions,5
+Mini-Max Sum - HackerRank Solutions,3
+Minimum Absolute Difference in an Array - HackerRank Solutions,0
+Recursion: Fibonacci Numbers - HackerRank Solutions,0
+"Small Triangles, Large Triangles C - HackerRank Solutions",3
+"Spies, Revised - HackerRank Solutions",3
+Swaps and Sum - HackerRank Solutions,2
+Text Allignment Python - HackerRank Solutions,6
+Unique Colors - HackerRank Solutions,4
+Words Score Python - HackerRank Solutions,7
+BST maintenance - HackerRank Solutions,5
+Coloring Tree - HackerRank Solutions,6
+Compress the String! python - HackerRank Solutions,3
+Decibinary Numbers - HackerRank Solutions,4
+Default Arguments Python - HackerRank Solutions,4
+Gridland Provinces - HackerRank Solutions,7
+Hard Disk Drives - HackerRank Solutions,2
+Hash Tables: Ransom Note - HackerRank Solutions,5
+Inner and Outer python - HackerRank Solutions,3
+Java 1D Array (Part 2) - HackerRank Solutions,7
+Java If-Else - HackerRank Solutions,1
+Lena Sort - HackerRank Solutions,4
+Maximum Element - HackerRank Solutions,3
+Min and Max python - HackerRank Solutions,3
+Number Game on a Tree - HackerRank Solutions,4
+Number Line Jumps - HackerRank Solutions,0
+Repeated String - HackerRank Solutions,3
+Sam's Puzzle (Approximate) - HackerRank Solutions,1
+Shape and Reshape python - HackerRank Solutions,2
+The Longest Common Subsequence - HackerRank Solutions,1
+Two Strings - HackerRank Solutions,4
+Viral Advertising - HackerRank Solutions,1
+Almost Equal - Advanced - HackerRank Solutions,6
+Array and simple queries - HackerRank Solutions,3
+Athlete Sort python - HackerRank Solutions,4
+Binary Search Tree : Lowest Common Ancestor - HackerRank Solutions,2
+C++ Variadics - HackerRank Solutions,5
+Construct the Array - HackerRank Solutions,5
+Coolguy and Two Subsequences - HackerRank Solutions,5
+Easy Addition - HackerRank Solutions,6
+Electronics Shop - HackerRank Solutions,1
+Equal - HackerRank Solutions,6
+Exceptions python - HackerRank Solutions,2
+Interval Selection - HackerRank Solutions,2
+Is This a Binary Search Tree? - HackerRank Solutions,3
+Jaggu Playing with Balloons - HackerRank Solutions,6
+Java Inheritance I - HackerRank Solutions,2
+List Comprehensions - HackerRank Solutions,3
+Minimum Operations - HackerRank Solutions,2
+Prime Dates - HackerRank Solutions,2
+Reverse Shuffle Merge - HackerRank Solutions,2
+Set.add() Python - HackerRank Solutions,4
+Starfleet - HackerRank Solutions,5
+The Captain's Room Python - HackerRank Solutions,3
+The Strange Function - HackerRank Solutions,5
+The crazy helix - HackerRank Solutions,6
+Tree: Inorder Traversal - HackerRank Solutions,1
+Triangle Quest Python - HackerRank Solutions,5
+White Falcon And Tree - HackerRank Solutions,6
+AND xor OR - HackerRank Solutions,2
+Almost sorted interval - HackerRank Solutions,5
+Alternating Characters - HackerRank Solutions,0
+Array Reversal - HackerRank Solutions,2
+Choosing White Balls - HackerRank Solutions,3
+Condition Statements in c - HackerRank Solutions,2
+Cycle Detection - HackerRank Solutions,2
+Divisibility - HackerRank Solutions,5
+Fibonacci Numbers Tree - HackerRank Solutions,4
+Find Maximum Index Product - HackerRank Solutions,5
+Find the permutation - HackerRank Solutions,5
+For Loop C++ - HackerRank Solutions,2
+Gemstones - HackerRank Solutions,1
+HackerRank City - HackerRank Solutions,1
+HackerRank in a String! - HackerRank Solutions,4
+Java Method Overriding - HackerRank Solutions,0
+Java Method Overriding 2 (Super Keyword) - HackerRank Solutions,3
+Java Priority Queue - HackerRank Solutions,3
+Java Regex 2 - Duplicate Words - HackerRank Solutions,3
+Magic Spells C++ - HackerRank Solutions,5
+Min Max Riddle - HackerRank Solutions,5
+Morgan and a String - HackerRank Solutions,3
+Play with words - HackerRank Solutions,2
+QHEAP1 - HackerRank Solutions,4
+Queries with Fixed Length - HackerRank Solutions,5
+Rooted Tree - HackerRank Solutions,5
+Sam and substrings - HackerRank Solutions,3
+Set Mutations Python - HackerRank Solutions,3
+Sherlock and the Valid String - HackerRank Solutions,4
+Structs C++ - HackerRank Solutions,3
+Substring Diff - HackerRank Solutions,4
+Subtrees And Paths - HackerRank Solutions,3
+Sum of the Maximums - HackerRank Solutions,5
+Super Maximum Cost Queries - HackerRank Solutions,3
+Tree : Top View - HackerRank Solutions,2
+Two Robots - HackerRank Solutions,2
+Welcome to Java! - HackerRank Solutions,4
+Append and Delete - HackerRank Solutions,2
+Beautiful Segments - HackerRank Solutions,4
+Burger Happiness - HackerRank Solutions,4
+Caesar Cipher - HackerRank Solutions,2
+Cards Permutation - HackerRank Solutions,4
+Class 2 - Find the Torsional Angle python - HackerRank Solutions,2
+Dot and Cross python - HackerRank Solutions,3
+Dynamic Summation - HackerRank Solutions,4
+Extra long Factorials - HackerRank Solutions,3
+"Floor, Ceil and Rint python - HackerRank Solutions",2
+Friend Circle Queries - HackerRank Solutions,2
+Funny String - HackerRank Solutions,1
+Inherited Code C++ - HackerRank Solutions,3
+Java BigInteger - HackerRank Solutions,2
+Java Generics - HackerRank Solutions,4
+Library Fine - HackerRank Solutions,2
+Lists - HackerRank Solutions,3
+Lonely Integer - HackerRank Solutions,2
+Making Candies - HackerRank Solutions,2
+Median Updates - HackerRank Solutions,3
+Network administration - HackerRank Solutions,4
+New Year Chaos - HackerRank Solutions,2
+No Idea! Python - HackerRank Solutions,4
+Pair Sums - HackerRank Solutions,3
+Palindrome Index - HackerRank Solutions,2
+Prime Checker Java - HackerRank Solutions,2
+Prime XOR - HackerRank Solutions,3
+Printing Tokens - HackerRank Solutions,2
+Recalling Early Days GP with Trees - HackerRank Solutions,3
+Save the Prisoner! - HackerRank Solutions,1
+"Say ""Hello, World!"" With C++ - HackerRank Solutions",1
+Simple Text Editor - HackerRank Solutions,4
+Stock Maximize - HackerRank Solutions,2
+Super Functional Strings - HackerRank Solutions,4
+Taxicab Driver's Problem - HackerRank Solutions,4
+The Minion Game Python - HackerRank Solutions,4
+Time Delta python - HackerRank Solutions,4
+Transpose and Flatten python - HackerRank Solutions,1
+Two Characters - HackerRank Solutions,1
+Validating Email Adresses With a Filter python - HackerRank Solutions,3
+Virtual Functions C++ - HackerRank Solutions,3
+Wet Shark and Two Subsequences - HackerRank Solutions,1
+Zig Zag Sequence - HackerRank Solutions,2
+ginortS python - HackerRank Solutions,2
+Array Mathematics Python - HackerRank Solutions,2
+Box It! C++ - HackerRank Solutions,1
+Calculate the Nth term C - HackerRank Solutions,0
+Circular Palindromes - HackerRank Solutions,2
+Company Retreat - HackerRank Solutions,3
+Costly Intervals - HackerRank Solutions,3
+Count Strings - HackerRank Solutions,3
+Counting the Ways - HackerRank Solutions,0
+Cpp exception handling C++ - HackerRank Solutions,3
+Cube Summation - HackerRank Solutions,3
+Direct Connections - HackerRank Solutions,3
+Down to Zero II - HackerRank Solutions,3
+Fairy Chess - HackerRank Solutions,2
+Find Runne-Up Score - HackerRank Solutions,3
+Game of Thrones - I - HackerRank Solutions,2
+Highest Value Palindrome - HackerRank Solutions,3
+Hyper Strings - HackerRank Solutions,0
+Java Anagrams - HackerRank Solutions,2
+Java Currency Formatter - HackerRank Solutions,2
+Java Exception Handling - HackerRank Solutions,1
+Java List - HackerRank Solutions,1
+Java Primality Test - HackerRank Solutions,2
+Jesse and Cookies - HackerRank Solutions,3
+Kingdom Division - HackerRank Solutions,0
+Library Query - HackerRank Solutions,3
+Luck Balance - HackerRank Solutions,3
+Making Anagrams - HackerRank Solutions,3
+Maximizing XOR - HackerRank Solutions,0
+Merge Sort: Counting Inversions - HackerRank Solutions,3
+Merging Communities - HackerRank Solutions,1
+Overloading Ostream Operator C++ - HackerRank Solutions,2
+Pairs - HackerRank Solutions,1
+Palindromic Subsets - HackerRank Solutions,3
+Points in a Plane - HackerRank Solutions,1
+Polar Coordinates Python - HackerRank Solutions,1
+Prime Digit Sums - HackerRank Solutions,1
+Queens on Board - HackerRank Solutions,1
+Queues: A Tale of Two Stacks - HackerRank Solutions,3
+Recursion: Davis' Staircase - HackerRank Solutions,2
+Reduce Function python - HackerRank Solutions,2
+Roy and alpha-beta trees - HackerRank Solutions,3
+Save Humanity - HackerRank Solutions,3
+Set.symmetric_difference() Operation python - HackerRank Solutions,3
+Sherlock and Cost - HackerRank Solutions,1
+Smart Number - HackerRank Solutions,1
+String Function Calculation - HackerRank Solutions,3
+Strings C++ - HackerRank Solutions,1
+Strong Password - HackerRank Solutions,0
+Summing Pieces - HackerRank Solutions,1
+Superman Celebrates Diwali - HackerRank Solutions,0
+The Indian Job - HackerRank Solutions,1
+Travel around the world - HackerRank Solutions,1
+Tree: Level Order Traversal - HackerRank Solutions,0
+Triplets - HackerRank Solutions,2
+Two Array Problem - HackerRank Solutions,3
+Walking the Approximate Longest Path - HackerRank Solutions,1
+Yet Another KMP Problem - HackerRank Solutions,3
+itertools.combinations() python - HackerRank Solutions,2
+sWAP cASE - HackerRank Solutions,2
+Alien Languages - HackerRank Solutions,1
+Arithmetic Progressions - HackerRank Solutions,2
+Arrays: Left Rotation - HackerRank Solutions,0
+BFS: Shortest Reach in a Graph - HackerRank Solutions,2
+Binary Search Tree : Insertion - HackerRank Solutions,1
+Bit Array - HackerRank Solutions,1
+Black and White Tree - HackerRank Solutions,1
+Bonetrousle - HackerRank Solutions,2
+Bricks Game - HackerRank Solutions,1
+C++ Class Template Specialization - HackerRank Solutions,2
+Can You Access? Java - HackerRank Solutions,1
+Counter game - HackerRank Solutions,0
+Covariant Return Types - HackerRank Solutions,1
+Exceptional Server C++ - HackerRank Solutions,1
+Far Vertices - HackerRank Solutions,0
+Fibonacci Modified - HackerRank Solutions,1
+Find Strings - HackerRank Solutions,2
+Find the Running Median - HackerRank Solutions,2
+Fraudulent Activity Notifications - HackerRank Solutions,2
+Hash Tables: Ice Cream Parlor - HackerRank Solutions,1
+Hexagonal Grid - HackerRank Solutions,1
+Java Arraylist - HackerRank Solutions,2
+Java Comparator - HackerRank Solutions,2
+Java Exception Handling (Try-catch) - HackerRank Solutions,0
+Java Reflection - Attributes - HackerRank Solutions,2
+Java Singleton Pattern - HackerRank Solutions,1
+Kindergarten Adventures - HackerRank Solutions,2
+Lily's Homework - HackerRank Solutions,2
+Longest Palindromic Subsequence - HackerRank Solutions,0
+Lovely Triplets - HackerRank Solutions,1
+Lucky Numbers - HackerRank Solutions,0
+Mandragora Forest - HackerRank Solutions,2
+Mars Exploration - HackerRank Solutions,0
+Max Array Sum - HackerRank Solutions,2
+Mining - HackerRank Solutions,2
+New Year Present - HackerRank Solutions,1
+Operator Overloading C++ - HackerRank Solutions,2
+Overload Operators C++ - HackerRank Solutions,0
+Polynomial Division - HackerRank Solutions,2
+Pseudo-Isomorphic Substrings - HackerRank Solutions,1
+Red John is Back - HackerRank Solutions,1
+Roads and Libraries - HackerRank Solutions,2
+Set .union() Operation - HackerRank Solutions,0
+Sets-STL C++ - HackerRank Solutions,0
+Shashank and the Palindromic Strings - HackerRank Solutions,1
+Similar Strings - HackerRank Solutions,2
+Special String Again - HackerRank Solutions,1
+String Formatting Python - HackerRank Solutions,1
+Subsequence Weighting - HackerRank Solutions,2
+Suffix Rotation - HackerRank Solutions,1
+Sum and Prod python - HackerRank Solutions,0
+Sum vs XOR - HackerRank Solutions,0
+Super Reduced String - HackerRank Solutions,1
+Swap Permutation - HackerRank Solutions,2
+Tara's Beautiful Permutations - HackerRank Solutions,0
+Text Wrap Python - HackerRank Solutions,2
+Turn Off the Lights - HackerRank Solutions,0
+Vector-Sort C++ - HackerRank Solutions,2
+Vim War - HackerRank Solutions,1
+Weighted Uniform Strings - HackerRank Solutions,2
+Abbreviation - HackerRank Solutions,0
+Accessing Inherited Functions C++ - HackerRank Solutions,1
+Angry Children 2 - HackerRank Solutions,0
+Animal Transport - HackerRank Solutions,0
+Array Construction - HackerRank Solutions,0
+Attending Workshops C++ - HackerRank Solutions,0
+Bear and Steady Gene - HackerRank Solutions,1
+Beautiful 3 Set - HackerRank Solutions,0
+Bit Array C++ - HackerRank Solutions,1
+Candles Counting - HackerRank Solutions,0
+Class C++ - HackerRank Solutions,0
+Coin on the Table - HackerRank Solutions,0
+Common Child - HackerRank Solutions,1
+Counting Special Sub-Cubes - HackerRank Solutions,0
+Covering the stains - HackerRank Solutions,1
+Deque-STL C++ - HackerRank Solutions,1
+Determining DNA Health - HackerRank Solutions,1
+Extremum Permutations - HackerRank Solutions,0
+Find Angle MBC Python - HackerRank Solutions,1
+Find the nearest clone - HackerRank Solutions,1
+GCD Matrix - HackerRank Solutions,1
+Gaming Array - HackerRank Solutions,1
+Inheritance Introduction c++ - HackerRank Solutions,0
+Insertion Sort - Part 1 - HackerRank Solutions,1
+Integers Come In All Sizes Python - HackerRank Solutions,0
+Inverse RMQ - HackerRank Solutions,1
+Java Date and Time - HackerRank Solutions,0
+Java Instanceof keyword - HackerRank Solutions,0
+Java Loops I - HackerRank Solutions,1
+Java Output Formatting - HackerRank Solutions,1
+Java String Tokens - HackerRank Solutions,1
+Jim and the Skyscrapers - HackerRank Solutions,1
+LCS Returns - HackerRank Solutions,0
+Maps-STL C++ - HackerRank Solutions,1
+Maximum Palindromes - HackerRank Solutions,1
+Maximum Xor - HackerRank Solutions,0
+Merge the Tools! Python - HackerRank Solutions,1
+Multi Level Inheritance C++ - HackerRank Solutions,0
+Ones and Twos - HackerRank Solutions,1
+P-sequences - HackerRank Solutions,1
+Pattern Syntax Checker Java - HackerRank Solutions,1
+Police Operation - HackerRank Solutions,0
+Power-Mod Power Python - HackerRank Solutions,0
+Preprocessor Solution C++ - HackerRank Solutions,0
+Rectangle Area C++ - HackerRank Solutions,1
+Sorting: Bubble Sort - HackerRank Solutions,0
+Sorting: Comparator - HackerRank Solutions,0
+Square Subsequences - HackerRank Solutions,0
+String Construction - HackerRank Solutions,1
+Super Kth LIS - HackerRank Solutions,0
+The Great XOR - HackerRank Solutions,1
+The Power Sum - HackerRank Solutions,1
+Triangle Quest 2 Python - HackerRank Solutions,1
+Two Strings Game - HackerRank Solutions,1
+Two Subarrays - HackerRank Solutions,1
+Two Two - HackerRank Solutions,1
+Xor and Sum - HackerRank Solutions,1
+Xor-sequence - HackerRank Solutions,1
+Zipped! python - HackerRank Solutions,0
+Zurikela's Graph - HackerRank Solutions,1
+
+#  
+# Start date: 20210517
+# End date: 20210523
+Event name,Event count
+page_view,6642
+user_engagement,5758
+scroll,3497
+session_start,3067
+first_visit,2023
+view_search_results,1350
+
+# What are your top conversions?
+# Start date: 20210517
+# End date: 20210523
+Event name,Conversions
+
+
+#  
+# Start date: 20210517
+# End date: 20210523
+Item name,Ecommerce purchases
+
+
+# How does activity on your platforms compare?
+# Start date: 20210426
+# End date: 20210523
+Platform,Conversions
