@@ -7,17 +7,17 @@ from pandas.core.indexes import period
 from fbprophet import Prophet
 from fbprophet.plot import add_changepoints_to_plot
 
-def prepare_data():
-    data = pd.read_csv('./processed_data/new_users.csv',comment='#')
+def prepare_data(i):
+    data = pd.read_csv('./processed_data/users.csv',comment='#')
     #print(data.head())
     train_data=pd.DataFrame()
     train_data['ds'] = pd.to_datetime(data['Day'])
-    train_data['y'] = data['New users']
+    train_data['y'] = data[i]
     return train_data
 
 
-def timeSeries():
-    train_data = prepare_data()
+def timeSeries(i):
+    train_data = prepare_data(i)
     prophecy = Prophet()
     prophecy.fit(train_data)
     future_dates = prophecy.make_future_dataframe(periods=100)
@@ -31,4 +31,5 @@ def timeSeries():
     plt.show()
 
 if __name__=="__main__":
-    timeSeries()    
+    i = input()
+    timeSeries(i)    
