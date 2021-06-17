@@ -1,23 +1,14 @@
 import numpy as np 
 import pandas as pd
-import csv
-
-def get_headers():
-    fp = open('./unprocessed_data/acquisition.csv')
-    rdr = csv.DictReader(filter(lambda row:row[0]!='#',fp))
-    for i in rdr:
-        print(i)
-
-    fp.close()    
-    
 
 
-#def remove_comment():
- #   data = pd.read_csv('./unprocessed_data/acquisition.csv',comment='#',chunksize=20)
-  #  for i in data:
-   
-   #     print(i)
+
+data = pd.read_csv('./processed_data/new_users.csv')
+ru = pd.read_csv('./processed_data/returning_users.csv')
+ret = ru['Returning users']
+print(ret) 
 
 
-if __name__=="__main__":
-    get_headers()
+data['Returning users'] = ret
+print(data.head())
+data.to_csv('users.csv')
