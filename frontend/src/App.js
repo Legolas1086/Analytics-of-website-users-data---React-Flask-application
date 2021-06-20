@@ -3,6 +3,7 @@ import axios from 'axios'
 import { base64StringToBlob } from 'blob-util';
 import styles from './css/App.css'
 import Nav from './nav.js'
+import Side from './side.js'
 
 
 class App extends React.Component{
@@ -36,9 +37,15 @@ class App extends React.Component{
     return(
       <div>
         <Nav/>
-        <button onClick={this.handleClick}>request</button>
-        <h1>{this.state.message}</h1>
-        <img src = {this.state.img}/>
+        <div className="Body">
+          <Side/>
+          <div className="Content">
+            <button onClick={this.handleClick}>request</button>
+            <img src = {this.state.img}/>
+          </div>
+          
+        </div>
+        
       </div>
     )
   }

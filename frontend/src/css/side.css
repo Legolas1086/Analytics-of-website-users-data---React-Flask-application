@@ -1,0 +1,14 @@
+.Side_bar{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: fixed;
+    height: 100%;
+    width: 10%;
+    
+}
+
+.Side_bar a{
+    margin-top: 5rem;
+}

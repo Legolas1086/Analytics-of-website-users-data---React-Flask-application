@@ -9,3 +9,23 @@ body{
   width: 100%;
   background-color: rgb(198, 198, 202);
 }
+
+.Body{
+  display: flex;
+  flex-direction: row;
+}
+
+.Content{
+  margin-left: 20rem;
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.Content button{
+  width: 5rem;
+}
+
+.Content img{
+  margin-top: 3rem;
+}
