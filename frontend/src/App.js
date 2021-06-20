@@ -4,6 +4,9 @@ import { base64StringToBlob } from 'blob-util';
 import styles from './css/App.css'
 import Nav from './nav.js'
 import Side from './side.js'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import Future from './future';
+import Home from './home';
 
 
 class App extends React.Component{
@@ -13,40 +16,30 @@ class App extends React.Component{
       img:"",
       message:"hi"
     }
-    this.handleClick=this.handleClick.bind(this)
   }
-  handleClick(){
-    axios.get('/demo',{params:{"key":"phrophecy"}}).then((response)=>{
-      const Blob = base64StringToBlob(response.data.imageString,'image/png')
-      console.log(Blob)
-      return Blob
-    }).then((Blob)=>{
-      const reader = new FileReader()
-      reader.readAsDataURL(Blob)
-      reader.onloadend=()=>{
-        this.setState({img:URL.createObjectURL(Blob)})
-      }
-    })
-      
+  
     
-
-
-  }
   render(){
 
     return(
-      <div>
-        <Nav/>
-        <div className="Body">
-          <Side/>
-          <div className="Content">
-            <button onClick={this.handleClick}>request</button>
-            <img src = {this.state.img}/>
-          </div>
+      <Router>
+        <div>
+          <Nav/>
+          <div className="Body">
+            <Side/>
+            <div className="Content">
+              <Switch>
+                <Route exact path="/" component={Home} />
+                <Route exact path="/future" component={Future}/>
+              </Switch>
+              
+            </div>
           
-        </div>
+          </div>
         
-      </div>
+        </div> 
+      </Router>
+      
     )
   }
 

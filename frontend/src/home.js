@@ -1,11 +1,11 @@
 import React from 'react'
-import Side from './sede.js'
+import Side from './side.js'
+import styles from './css/home.css'
 
 function Home(){
     return(
         <div className="Home_page">
-            <Side/>
-
+            <h1>Check your web page analytics</h1>
         </div>
     )
 }
