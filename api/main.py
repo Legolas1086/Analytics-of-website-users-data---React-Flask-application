@@ -15,8 +15,11 @@ CORS(app)
 
 @app.route('/demo',methods=['GET'])
 def demo():
-    message = request.args.get('message')
-    img = Image.open('./static/phrophecy.png')
+    message = request.args.get('key')
+    if(message=="trend"):
+        img = Image.open('./static/plots.png')
+    else:
+        img = Image.open('./static/phrophecy.png')
     output_buffer = io.BytesIO()
     img.save(output_buffer, format='PNG')
     byte_data = output_buffer.getvalue()
