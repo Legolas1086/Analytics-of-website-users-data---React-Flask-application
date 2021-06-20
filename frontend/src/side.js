@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './css/side.css'
+import { Link } from 'react-router-dom'
 
 class Side extends React.Component{
     constructor(){
@@ -11,7 +12,9 @@ class Side extends React.Component{
     render(){
         return(
             <div className="Side_bar">
-                <a>Home</a>
+                <Link to="/">Home</Link>
+                <Link to="/future">Future</Link>
+                <a>Visualise</a>
             </div>
         )
     }

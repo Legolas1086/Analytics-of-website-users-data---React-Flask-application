@@ -1,0 +1,13 @@
+.Future_page{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10rem;
+}
+
+.Future_page form option{
+    width: 4rem;
+}
+
+.Future_page button{
+    width: 3rem;
+}

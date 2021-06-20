@@ -16,16 +16,7 @@ body{
 }
 
 .Content{
-  margin-left: 20rem;
-  margin-top: 3rem;
+  margin-left: 10rem;
   display: flex;
   flex-direction: column;
-}
-
-.Content button{
-  width: 5rem;
-}
-
-.Content img{
-  margin-top: 3rem;
 }

@@ -11,4 +11,6 @@
 
 .Side_bar a{
     margin-top: 5rem;
+    text-decoration: none;
+    color: black;
 }

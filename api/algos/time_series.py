@@ -24,11 +24,12 @@ def timeSeries(i):
     #print(future_dates.tail())
     future = prophecy.predict(future_dates)
     fig1 = prophecy.plot(future)
-    #plt.savefig('phrophecy.png')
+    plt.savefig('./static/phrophecy.png')
     #plt.show()
     fig2 = add_changepoints_to_plot(fig1.gca(),prophecy,future)
+    plt.savefig('./static/changepoints.png')
     #plt.show()
-    fig3 = prophecy.plot_components(future).savefig('plots.png')
+    fig3 = prophecy.plot_components(future).savefig('./static/plots.png')
     #plt.show()
 
 if __name__=="__main__":
