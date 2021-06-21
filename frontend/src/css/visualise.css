@@ -1,18 +1,19 @@
-.Future_page{
+.Visualise_page{
     display: flex;
     flex-direction: column;
     margin-left: 10rem;
 }
 
-.Future_page form option{
+.Visualise_page form option{
     width: 4rem;
 }
 
-.Future_page button{
+.Visualise_page button{
     width: 3rem;
 }
 
-.Future_page img{
+.Visualise_page img{
     border: 2px;
     box-shadow: 4px;
+    
 }

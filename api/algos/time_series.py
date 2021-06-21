@@ -25,11 +25,14 @@ def timeSeries(i):
     future = prophecy.predict(future_dates)
     fig1 = prophecy.plot(future)
     plt.savefig('./static/phrophecy.png')
+    #plt.clf()
     #plt.show()
     fig2 = add_changepoints_to_plot(fig1.gca(),prophecy,future)
     plt.savefig('./static/changepoints.png')
+    plt.clf()
     #plt.show()
     fig3 = prophecy.plot_components(future).savefig('./static/plots.png')
+    plt.clf()
     #plt.show()
 
 if __name__=="__main__":
