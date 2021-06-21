@@ -8,7 +8,8 @@ class Visualise extends React.Component{
         super()
         this.state={
             dropdown_data:"users",
-            img:""
+            img:"",
+            isloading:false
         }
         this.handleChange=this.handleChange.bind(this);
         this.handleClick=this.handleClick.bind(this);
@@ -21,6 +22,7 @@ class Visualise extends React.Component{
     }
 
     handleClick(){
+        this.setState({isloading:true})
         axios.get('/visualise',{params:{"key":this.state.dropdown_data}}).then((response)=>{
           const Blob = base64StringToBlob(response.data.imageString,'image/png')
           console.log(Blob)
@@ -29,7 +31,7 @@ class Visualise extends React.Component{
           const reader = new FileReader()
           reader.readAsDataURL(Blob)
           reader.onloadend=()=>{
-            this.setState({img:URL.createObjectURL(Blob)})
+            this.setState({img:URL.createObjectURL(Blob),isloading:false})
         }
     });
     }
@@ -47,7 +49,8 @@ class Visualise extends React.Component{
                     </select>
                 </form>
                 <button onClick={this.handleClick}>View</button>
-                <img src={this.state.img}/>
+                {this.state.isloading?<p>Loading....</p>:<img src={this.state.img}/>}
+                
             </div>
         )
     }
