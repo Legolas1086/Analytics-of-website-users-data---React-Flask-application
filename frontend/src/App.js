@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import Future from './future';
 import Home from './home';
 import Visualise from './visualise';
-
+import Country from './country';
 
 class App extends React.Component{
   constructor(){
@@ -33,6 +33,7 @@ class App extends React.Component{
                 <Route exact path="/" component={Home} />
                 <Route exact path="/future" component={Future}/>
                 <Route exact path="/visualise" component={Visualise}/>
+                <Route exact path="/countries" component={Country}/>
               </Switch>
               
             </div>

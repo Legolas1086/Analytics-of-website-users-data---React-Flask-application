@@ -1,19 +1,19 @@
-.Future_page{
+.Country_page{
     display: flex;
     flex-direction: column;
     margin-left: 10rem;
-    margin-top:5rem
+    margin-top: 5rem;
 }
 
-.Future_page form option{
+.Country_page form option{
     width: 4rem;
 }
 
-.Future_page button{
+.Country_page button{
     width: 3rem;
 }
 
-.Future_page img{
+.Country_page img{
     border: 2px;
     box-shadow: 4px;
 }
