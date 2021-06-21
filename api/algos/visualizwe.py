@@ -3,8 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-def users_by_browser():
-    parameter = input()
+def users_by_browser(parameter):
     i = 1
     if parameter == "users":
         i = 1
@@ -21,8 +20,17 @@ def users_by_browser():
 
     explode = [0.2,0.2,0.2,0.2,0.2,0.2]    
     plt.pie(x,labels=labels,explode=explode,autopct='%1.0f%%',pctdistance=1.1,labeldistance=1.3,shadow=True)
-    plt.legend()
-    plt.show()
+    #plt.legend()
+    if parameter=="users":
+        plt.savefig('./static/users.png')
+        plt.clf()
+    elif parameter=="new users":
+        plt.savefig('./static/newusers.png')
+        plt.clf()
+    else:
+        plt.savefig('./static/sessions.png')    
+        plt.clf()
+
     
 
 
@@ -35,10 +43,11 @@ def searchPatterns():
     plt.xlabel('Day')
     plt.ylabel('Number of users')
     plt.legend()
-    plt.show()
+    plt.savefig('./static/line.png')
+    plt.clf()
 
 
 
 if __name__=="__main__":
     #searchPatterns()
-    users_by_browser()
+    searchPatterns()
