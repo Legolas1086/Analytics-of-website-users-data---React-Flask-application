@@ -47,18 +47,22 @@ class Country extends React.Component{
                     </select>
                 </form>
                 <button onClick={this.handleClick}>View</button>
-                <ul className="Outer_list">
+                <ul className="Outerlist">
                     {
                         this.state.data.map((data)=>
-                        <div>
-                            <h1>{data.name}</h1>
-                            {data.details.map((details)=>
-                                <ul>
-                                   <li>{details.country}</li>
-                                   <li>{details.parameter}</li>
-                                </ul>)}
-                                
-                            
+                        <div className="CountryData">
+                            <h4>{data.name}</h4>
+                            <div className="Card">
+                                <ul className="HeaderList">
+                                  <li>Country</li>
+                                  <li>{this.state.dropdown_data}</li>
+                                </ul>
+                               {data.details.map((details)=>
+                                    <ul className="InnerList">
+                                     <li>{details.country}</li>
+                                     <li>{details.parameter}</li>
+                                    </ul>)}
+                            </div>                          
                         </div>
                         )
    
