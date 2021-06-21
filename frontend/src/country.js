@@ -52,11 +52,13 @@ class Country extends React.Component{
                         this.state.data.map((data)=>
                         <div>
                             <h1>{data.name}</h1>
-                            <ul>
-                                {data.details.map((details)=>
-                                <li>{details.country}</li>)}
+                            {data.details.map((details)=>
+                                <ul>
+                                   <li>{details.country}</li>
+                                   <li>{details.parameter}</li>
+                                </ul>)}
                                 
-                            </ul>
+                            
                         </div>
                         )
    
