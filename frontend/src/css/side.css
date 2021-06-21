@@ -1,6 +1,6 @@
 .Side_bar{
     top:4rem;
-    background-color: beige;
+    background-image:linear-gradient(beige,rgb(224, 222, 222));
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -11,7 +11,7 @@
 }
 
 .Side_bar a{
-    margin-top: 5rem;
+    margin-top: 2.5rem;
     text-decoration: none;
     color: black;
 }
