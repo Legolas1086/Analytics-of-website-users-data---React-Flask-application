@@ -8,6 +8,8 @@ body{
   padding: 0;
   width: 100%;
   background-color: rgb(198, 198, 202);
+  display: flex;
+  direction: column;
 }
 
 .Body{

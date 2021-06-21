@@ -15,6 +15,7 @@ class Side extends React.Component{
                 <Link to="/">Home</Link>
                 <Link to="/future">Future</Link>
                 <Link to="/visualise">Visualise</Link>
+                <Link to="/countries">Countries</Link>
             </div>
         )
     }

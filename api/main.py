@@ -10,7 +10,7 @@ from PIL import Image
 import io
 from algos.time_series import timeSeries
 from algos.visualizwe import users_by_browser,searchPatterns
-#from algos.visualise2 import searchPatterns
+from algos.k_means import k_means
 
 app = Flask(__name__)
 CORS(app)
@@ -60,5 +60,16 @@ def visualise():
 
     result = {"imageString":base64_str}
     return result
+
+
+@app.route('/country',methods=['GET'])
+def country():
+    #print('reached')
+    message=request.args.get('key')
+    result = k_means(message)
+    print('algo done')
+    return json.jsonify(result)
+
+
    
    

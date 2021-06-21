@@ -1,4 +1,5 @@
 .Side_bar{
+    top:3rem;
     background-color: beige;
     display: flex;
     flex-direction: column;
