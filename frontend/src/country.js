@@ -61,7 +61,7 @@ class Country extends React.Component{
                             <div className="Card">
                                 <ul className="HeaderList">
                                   <li>Country</li>
-                                  <li>{this.state.dropdown_data}</li>
+                                  <li>{this.state.dropdown_data}{this.state.dropdown_data=="Total revenue"?" (in $)":""}</li>
                                 </ul>
                                {data.details.map((details)=>
                                     <ul className="InnerList">

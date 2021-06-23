@@ -7,7 +7,7 @@
 
 .Future_page option{
     width: 10rem;
-    font-size: large;
+    font-size: medium;
     padding: 1rem;
     border-radius: 50px;
 }
@@ -26,6 +26,14 @@
 }
 
 .Future_page img{
-    border: 2px;
-    box-shadow: 4px;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    
+    box-shadow: 0 20px 20px 0 #888888, 0 6px 20px 0 #888888;
+}
+
+.Visualise_page p{
+    color: rgb(226, 130, 130);
+    margin-top: 3rem;
+    margin-left: 5rem;
 }

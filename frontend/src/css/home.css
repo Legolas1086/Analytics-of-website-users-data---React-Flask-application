@@ -1,9 +1,13 @@
 .Home_page{
-    margin-left: 10rem;
+    margin-left: 8rem;
+    margin-top: 5rem;
+    width: 80rem;
+    height:50rem;
+   
 }
 
-.Home_page h1{
-    margin-top: 10rem;
-    margin-left: 10rem;
-    color: red;
+.Home_page img{
+  width: 80rem;
+  height:50rem;
+
 }
