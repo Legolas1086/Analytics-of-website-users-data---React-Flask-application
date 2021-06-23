@@ -65,7 +65,10 @@ class Visualise extends React.Component{
                     </select>
                 </form>
                 <button onClick={this.handleClick}>View</button>
-                {this.state.isloading?<p>Loading....</p>:<img src={this.state.img}/>}
+                <div className="MainContent">
+                {this.state.isloading?<p>Loading....</p>:<img src={this.state.img}/>}   
+                </div>
+                
                 
             </div>
         )
