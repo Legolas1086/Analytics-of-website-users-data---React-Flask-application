@@ -21,6 +21,22 @@ class Visualise extends React.Component{
         console.log(this.state.dropdown_data)
     }
 
+    componentDidMount(){
+        this.setState({isloading:true})
+        axios.get('/visualise',{params:{"key":this.state.dropdown_data}}).then((response)=>{
+          const Blob = base64StringToBlob(response.data.imageString,'image/png')
+          console.log(Blob)
+          return Blob
+        }).then((Blob)=>{
+          const reader = new FileReader()
+          reader.readAsDataURL(Blob)
+          reader.onloadend=()=>{
+            this.setState({img:URL.createObjectURL(Blob),isloading:false})
+        }
+    });
+
+    }
+
     handleClick(){
         this.setState({isloading:true})
         axios.get('/visualise',{params:{"key":this.state.dropdown_data}}).then((response)=>{

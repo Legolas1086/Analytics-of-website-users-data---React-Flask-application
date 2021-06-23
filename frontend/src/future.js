@@ -15,6 +15,22 @@ class Future extends React.Component{
         this.handleClick=this.handleClick.bind(this);
     }
 
+    componentDidMount(){
+        this.setState({isloading:true})
+        axios.get('/future',{params:{"key":this.state.dropdown_data}}).then((response)=>{
+          const Blob = base64StringToBlob(response.data.imageString,'image/png')
+          console.log(Blob)
+          return Blob
+        }).then((Blob)=>{
+          const reader = new FileReader()
+          reader.readAsDataURL(Blob)
+          reader.onloadend=()=>{
+            this.setState({img:URL.createObjectURL(Blob),isloading:false})
+        }
+    });
+
+    }
+
 
     handleChange(event){
         this.setState({dropdown_data:event.target.value})

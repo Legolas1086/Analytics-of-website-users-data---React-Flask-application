@@ -13,7 +13,13 @@ class Country extends React.Component{
         this.handleChange=this.handleChange.bind(this)
         this.handleClick=this.handleClick.bind(this)
     }
-     content = []
+     
+
+    componentDidMount(){
+        axios.get('/country',{params:{'key':this.state.dropdown_data}}).then(
+            (response)=>{this.setState({data:response.data})}
+        )
+    }
 
     handleChange(event){
         this.setState({dropdown_data:event.target.value})
