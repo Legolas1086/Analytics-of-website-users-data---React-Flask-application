@@ -16,8 +16,7 @@ class Country extends React.Component{
      
 
     componentDidMount(){
-        const path = window.location.pathname
-        console.log(path)
+        
         axios.get('/country',{params:{'key':this.state.dropdown_data}}).then(
             (response)=>{this.setState({data:response.data})}
         )
