@@ -7,7 +7,7 @@ class Future extends React.Component{
     constructor(){
         super()
         this.state={
-            dropdown_data:"",
+            dropdown_data:"simple",
             img:"",
             isloading:false
         }
